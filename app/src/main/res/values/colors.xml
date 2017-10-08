@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#29a09e</color>
+    <color name="colorPrimaryDark">#19a3a0</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="year">#999999</color>
+    <color name="title">#222222</color>
+
+
+    <color name="color1">#29a09e</color>
+    <color name="color2">#90cfb2</color>
+    <color name="color3">#f2774e</color>
+    <color name="color4">#ffcc84</color>
+    <color name="color5">#efe4b0</color>
+
+
+    <color name="text_color">#ffff</color>
+</resources>

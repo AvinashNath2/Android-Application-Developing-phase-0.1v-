@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gadzt_App_ListView</string>
+    <string name="title_activity_product_">Product_Activity</string>
+    <string name="action_settings">Settings</string>
+</resources>
